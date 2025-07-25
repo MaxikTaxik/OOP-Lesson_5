@@ -1,4 +1,3 @@
-package Calculator;
 public interface Model {
     int result();
     void setOperandX(int operand);
