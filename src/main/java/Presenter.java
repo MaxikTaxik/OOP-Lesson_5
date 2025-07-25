@@ -1,4 +1,3 @@
-package Calculator;
 public class Presenter {
     Model model;
     View view;

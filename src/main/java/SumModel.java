@@ -1,4 +1,3 @@
-package Calculator;
 public class SumModel extends CalcModel {
     public SumModel() {
     }
